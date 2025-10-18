@@ -55,3 +55,9 @@ Predicted Category → Credit reporting, credit repair services, or other person
 Complaint: My mortgage account payment was not updated by the bank correctly.
 Predicted Category → Mortgage
 
+
+> **Note:** The original dataset was very large (>25 MB).  
+> For submission, it was reduced to 10,000 records to meet GitHub's upload limit.  
+> This does not affect the model logic or workflow.
+
+
